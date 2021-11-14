@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    font-family: Arial;
+  }
+  
+  #title {
+    text-align: center;
+    font-size: 60px; 
+    font-family: NewTimesRoman;
+    margin-top: 40px;
+  }
+  
+  img {
+    width: 75%;
+    margin: 50px;
+  }
+  #img-div {
+    margin-left: 200px;
+  }
+  
+  #main {
+    padding: 10px;
+    margin: 0 90px;
+  }
+  
+  footer {
+    padding: 10px;
+    margin: 0 90px 40px;
+    background-color: blue;
+    color: white;
+  }
+  #tribute-link {
+    color: blue;
+    margin-bottom: 80px;
+  }
